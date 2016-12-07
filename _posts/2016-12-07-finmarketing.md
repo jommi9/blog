@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: finmarketing
 ---
@@ -12,4 +12,4 @@ finnish people are humble - a few years back newsweek aggregated OECD statistics
 
  we are honest - slush banner 
 
-we know tech - open source stuff - mysql, linux IRC - i should do a wikipedia site of this. 
+we know tech - open source stuff - mysql, linux IRC - i should do a wikipedia site of this.
