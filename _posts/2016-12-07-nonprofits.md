@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+title: nonprofits
 ---
 what is a nonprofit?
 
